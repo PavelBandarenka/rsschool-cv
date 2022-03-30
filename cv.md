@@ -19,3 +19,11 @@ function multiply(a, b){
 return a * b
 }
 ```
+## Work experience
+Didn't work anywhere. I take online Java and JS courses in for now.
+## Education
+* Belorussian State University of Transport (2003-2008) 
+  + civil engineer 
+## Languages
+- Russian (native speaker)
+- English (B1)
